@@ -1,3 +1,12 @@
+/*
+Práctica 3. Juego de Adivinanza con Etiquetas y goto_Daniel_Rios_Rodriguez
+Daniel Rios Rodiguez
+10 de septiembre de 2023
+El programa genera un numero al azar del 1 al 100 y el usuario tiene 
+que adivinarlo el programa te estara diciendo si el numero al azar es menor 
+o mayor.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
